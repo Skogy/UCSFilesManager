@@ -23,7 +23,8 @@ sorting and renaming sound files based on predefined categories and keywords.
 Installation :
 ==============
 
-Simply place the "UCSFilesManager" folder in the desired location (e.g., the Programs folder) 
+Simply place the "UCSFilesManager" folder in the desired location (e.g., the Programs folder),
+extract the UCS(folders).zip archive (it's UCS hierarchy empty folders, the destination path) 
 and launch UCSFilesManager.exe. You can create a shortcut on your desktop.
 
 
