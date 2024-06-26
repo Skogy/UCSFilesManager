@@ -1,0 +1,1 @@
+Agricultural, Bale, Carrier, Cart, Combine, Crop, Cultivator, Drill, Duster, Equipment, Farm, Fertilizer, Forage, Grain, Harvester, Hay, Husker, Irrigation, Irrigator, Livestock, Manure, Plow, Processor, Rake, Seed, Seeder, Sprayer, Spreader, Sprinkler, Tiller, Tractor, Tractors, Truck, Wagon

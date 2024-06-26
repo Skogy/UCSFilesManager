@@ -1,0 +1,1 @@
+Bearing, Belt, Dynamo, Line, Roll, Shaft

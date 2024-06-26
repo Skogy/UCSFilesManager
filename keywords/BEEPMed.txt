@@ -1,0 +1,1 @@
+ECG, EEG, EKG, Flatline, Heart, KDC, Monitor, Oximeter, Pulse, Ultrasound

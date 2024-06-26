@@ -1,0 +1,1 @@
+Alarms, Alert, Bank, Burglar, Caution, Clanger, Clock, Crossing, Fire, Notice, Railroad, Reminder, School, Signal, Striker, Tower, Warning

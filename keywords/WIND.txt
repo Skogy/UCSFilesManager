@@ -1,0 +1,1 @@
+Air, Atmospheric, Breeze, Current, Draft, Flow, Miscellaneous, Wind, Windy

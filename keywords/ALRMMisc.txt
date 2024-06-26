@@ -1,0 +1,1 @@
+Alarms, Alert, Anti-Theft, Caution, Homing, Miscellaneous, Notice, Reminder, Signal, Warning

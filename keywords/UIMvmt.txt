@@ -1,0 +1,1 @@
+Action, Activity, Animation, Choose, Confirm, Drag, Dynamics, Flick, GUI, Motion, Movement, Navigation, Page, Scroll, Swipe, Transition, UI, UX, Zoom

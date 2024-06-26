@@ -1,0 +1,1 @@
+Bar, Chain, Deadbolt, Door, Doorknob, Fixture, Handle, Hardware, Hinge, Jiggle, Knob, Latch, Lock, Peephole, Picking, Push, Stop

@@ -1,0 +1,1 @@
+Altiverb, Convolution, Early, Echo, Impulse, IR, Late, Reflection, Reflections, Response, Reverb, Sample, Tail

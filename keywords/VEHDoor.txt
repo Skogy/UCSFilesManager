@@ -1,0 +1,1 @@
+Auto, Automobile, Car, Close, Compact, Convertible, Coupe, Crossover, Door, Drivers, Hatchback,Hood, Liftgate, Luxury, Open, Passenger, Rental, Sedan, Sports, Station, Subcompact, Taxi, Tailgate, Slam, SUV, Truck, Trunk, Van

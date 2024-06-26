@@ -1,0 +1,1 @@
+Archer, Bow, Bowyer, Box, Compound, Crossbow, Fletcher, Hornbow, Longbow, Recurve, Release, Shortbow, String, Traditional

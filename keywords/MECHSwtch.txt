@@ -1,0 +1,1 @@
+Button, Circuit, Clack, Click, Dimmer, Light, Limit, Micro, Push-Button, Rocker, Rotary, Safety, Selector, Slide, Switch, Switchgear, Toggle, Wall

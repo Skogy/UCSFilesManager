@@ -1,0 +1,1 @@
+Aircraft, Amphibious, Armada, Attack, Battlecruiser, Battleship, Blockade, Boat, Carrier, Corvette, Craft, Cruiser, Cruisier, Destroyer, Dreadnought, Fast, Fleet, Flotilla, Frigate, Gunboat, Landing, Naval, Patrol, Submarine, Torpedo, Warship

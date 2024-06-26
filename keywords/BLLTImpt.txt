@@ -1,0 +1,1 @@
+Armor, Ballistic, Body, Bullet, Bulletproof, Gunshot, Headshot, Hit, Impact, Killshot, Penetration, Pierce, Shot, Strike, Struck, Vest, Wounded

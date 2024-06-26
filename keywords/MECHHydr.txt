@@ -1,0 +1,1 @@
+Actuator, Brake, Clutch, Compressor, Conveyor, Cylinder, Damper, Hydraulic, Jack, Pneumatic, Press, Pressurized, Ram, System, Valve

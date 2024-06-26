@@ -1,0 +1,1 @@
+Beam, Blaster, Cannon, Phaser, Plasma, Ray, Weapon

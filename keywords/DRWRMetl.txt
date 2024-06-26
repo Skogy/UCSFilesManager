@@ -1,0 +1,1 @@
+Cabinet, Cash, Chest, Filing, Rack, Register, Security, Toolbox, Workbench

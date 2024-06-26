@@ -1,0 +1,1 @@
+Cargo, Container, Cruise, Ferry, Freighter, Icebreaker, Large, Oil, Passenger, Pirate, Research, Ship, Tanker, Tugboat, Vessel

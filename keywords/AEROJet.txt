@@ -1,0 +1,1 @@
+737, 747, 777, A310, A330, A350, A380, Aeroplane, Afterburner, Airbus, Aircraft, Airliner, Airplane, Boeing, Bombardier, Cargo, Commercial, DC-10, Jet, Jetliner, Jumbo, Learjet, Passenger, Plane, Private, Ramjet, Regional, Scramjet, Supersonic, Turbojet, Twinjet, Unducted

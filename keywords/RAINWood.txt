@@ -1,0 +1,1 @@
+Barn, Deck, Drizzle, Floor, Precipitation, Rain, Roof, Shed, Wood

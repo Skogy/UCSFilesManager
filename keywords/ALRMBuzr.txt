@@ -1,0 +1,1 @@
+Alarm, Alarms, Alert, Burglar, Buzzing, Caution, Door, Doorkeeper, Doorman, Emergency, Entry, Fire, Front, Game, Home, Hospital, Intercom, Notice, Reminder, Security, Show, Signal, Warning

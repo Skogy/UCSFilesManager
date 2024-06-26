@@ -1,0 +1,1 @@
+Button, Choose, Click, GUI, Interaction, Interface, Menu, Navigation, Pick, Press, Select, Tap, Type, UI, UX
